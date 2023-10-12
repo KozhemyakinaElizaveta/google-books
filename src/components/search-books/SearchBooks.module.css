@@ -1,0 +1,26 @@
+.header{
+    background-color: #2A2C2E;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 88px;
+    width: 95%;
+    margin-top: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.box{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
